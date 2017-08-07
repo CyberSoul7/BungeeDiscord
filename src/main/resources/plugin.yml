@@ -1,0 +1,4 @@
+name: BungeeDiscord
+main: net.griscraft.bungeediscord.BungeeDiscord
+version: 1.0
+author: CyberSoul
